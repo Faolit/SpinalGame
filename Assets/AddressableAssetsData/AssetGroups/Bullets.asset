@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bullets
+  m_EditorClassIdentifier: 
+  m_GroupName: Bullets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0be71fda34ffbd94b836e4aa53265dd4
+  m_SerializeEntries:
+  - m_GUID: 0ea5dd7de4205a44784ec606a44c5e03
+    m_Address: RelsBullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a6fd72428c53b344af8d50fdb11a8a5
+    m_Address: PowerBullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7983c8aa17006d4b9119e2d6c8b748e
+    m_Address: NormalBullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f58743015c62e684fa3853f2025b30ca
+    m_Address: NormalEnemyBullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e5e23b6456ba9942a6261c1d7dc7001
+    m_Address: ExplodeEnemyBullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1fd5c7a1724b7c46ab95f3d62622c1b
+    m_Address: PowerEnemyBullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6d60a29831b262d419fb0aaa19105a3e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9f80dc50483066d4692dab6510f4d000, type: 2}
+    - {fileID: 11400000, guid: 8118c663de9197548b91b625f7be5834, type: 2}

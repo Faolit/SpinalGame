@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc33c52ec73c83f4885884a6d8ae92b8, type: 3}
+  m_Name: L2S3
+  m_EditorClassIdentifier: 
+  ID: 0
+  spavnerPosition: {x: 2, y: 6}
+  waveConfigs:
+  - {fileID: 11400000, guid: 586f5a48538c1f546933dc37ab0a4593, type: 2}
+  - {fileID: 11400000, guid: 353bc1910ca47f1409fadc4db4d098ed, type: 2}
+  waveDelay: 3
+  randomPos: 2

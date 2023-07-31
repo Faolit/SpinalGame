@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccc1cf9e190fa9745ac26394eda375a5, type: 3}
+  m_Name: L2
+  m_EditorClassIdentifier: 
+  ID: 1
+  skyConfigs:
+  - {fileID: 11400000, guid: 9d8220993b7b56d41985f6df5168794b, type: 2}
+  - {fileID: 11400000, guid: a687fc894b530044d8a9c78b866199ac, type: 2}
+  spavnerConfigs:
+  - {fileID: 11400000, guid: 6e5489e71b4e7fe43a0b0244ed37a986, type: 2}
+  - {fileID: 11400000, guid: a7f2815208a950a46a3bdc620530659e, type: 2}
+  - {fileID: 11400000, guid: 040b06196cbe4cd4d8998fe246ec51cb, type: 2}
+  - {fileID: 11400000, guid: f3471bb594a46c44ca491ee5f2262ff6, type: 2}
+  minWinScore: 20
+  music: 37

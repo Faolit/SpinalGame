@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Enemies
+  m_EditorClassIdentifier: 
+  m_GroupName: Enemies
+  m_Data:
+    m_SerializedData: []
+  m_GUID: afdf8ed3cccba604bb16044e4d86b6c6
+  m_SerializeEntries:
+  - m_GUID: db8308989f3fd994686c1d89e4b9ec60
+    m_Address: NemesisEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 026a2cd8d1a774e4e9d8d3e517100340
+    m_Address: FlinnEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b73903460ea690c48ab5feb8eb3a5201
+    m_Address: NormalEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6d60a29831b262d419fb0aaa19105a3e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a7d71ed6d4212204ebd92b5d43ae63a3, type: 2}
+    - {fileID: 11400000, guid: 510b5d741e74e864b9b5112c09c45868, type: 2}

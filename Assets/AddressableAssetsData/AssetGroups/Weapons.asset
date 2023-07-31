@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Weapons
+  m_EditorClassIdentifier: 
+  m_GroupName: Weapons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d6d8b1fd0c7b3054b8a8f35eabb355f7
+  m_SerializeEntries:
+  - m_GUID: a62f7127823919142a6058edce19d0a3
+    m_Address: NormalWeapon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f5e5540dc5ed45438cea0f6bef41db2
+    m_Address: RelsWeapon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 947c2093cf98d294290d203d40922857
+    m_Address: MultipleWeapon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec337d9e5b119104086149caf204b2fa
+    m_Address: NormalEnemyWeapon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1fc4e63626092e84eb1b2f63a219ea35
+    m_Address: FlinnWeapon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25c47222b02ef2e4e940104d3a1926f5
+    m_Address: NemesisWeapon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6d60a29831b262d419fb0aaa19105a3e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1a663e9d0f28126488514cae0e273658, type: 2}
+    - {fileID: 11400000, guid: 2fa07189898f98f46b61d7948c1e349c, type: 2}

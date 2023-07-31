@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc33c52ec73c83f4885884a6d8ae92b8, type: 3}
+  m_Name: L3S4
+  m_EditorClassIdentifier: 
+  ID: 0
+  spavnerPosition: {x: 6, y: 6}
+  waveConfigs:
+  - {fileID: 11400000, guid: 4f330de78364fc941a067d40a8c4a3c2, type: 2}
+  - {fileID: 11400000, guid: f9dc2db6b6c8611499a3ed4dd12c46b4, type: 2}
+  - {fileID: 11400000, guid: 80ae412d1ec95fd46aa1fff4bd0c7de4, type: 2}
+  waveDelay: 3
+  randomPos: 1

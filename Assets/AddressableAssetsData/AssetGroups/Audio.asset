@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a1343e014415fe94ba9f870d19a58a59
+  m_SerializeEntries:
+  - m_GUID: 840e3110daad74241949b286428cbfbf
+    m_Address: PrepareMusic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd29efd43caa9a7408e9b30e90e81323
+    m_Address: FinalMusic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49c78f23bc09c6245ae445c832578b35
+    m_Address: BattleMusic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97eac89d6d883d841964ae75da0dbc30
+    m_Address: BtnClick
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6599f8093b11bf45afc3f9f127e8df9
+    m_Address: LaserFireSound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd197bfbd1af99a42b420a12dcd481e1
+    m_Address: FireSound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6d60a29831b262d419fb0aaa19105a3e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ccbfee35e2c73ce49bc55e8703a5437e, type: 2}
+    - {fileID: 11400000, guid: fb9fb9ff700cbb74ba116c173145b110, type: 2}

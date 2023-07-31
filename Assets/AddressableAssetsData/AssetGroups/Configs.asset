@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  m_GroupName: Configs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 645b20abaec85e3409014774378096cb
+  m_SerializeEntries:
+  - m_GUID: e34894dd589049349be5174d0786a38b
+    m_Address: DefaultWeaponConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WeaponConfigs
+  - m_GUID: 881ffb77ffb6f2e4b82b512ca9eb3e50
+    m_Address: Level_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelConfigs
+  - m_GUID: b0482672f87b2bc409084352b905585a
+    m_Address: ArchShipConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ShipConfigs
+  - m_GUID: b99252ae478a10349a10562e105cddd5
+    m_Address: CursedShipConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ShipConfigs
+  - m_GUID: 96468693beb5b5a40b2f15d57ec97c71
+    m_Address: RelsWeaponConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WeaponConfigs
+  - m_GUID: 370008af2dc05304a9365d62b371c8cf
+    m_Address: MultipleWeaponConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WeaponConfigs
+  - m_GUID: 508b4a2154167ce42a7c73aed7ff8f93
+    m_Address: NormalShipConfig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ShipConfigs
+  - m_GUID: 55e5339cc4f97114d996e2ee3a41ec0d
+    m_Address: Level2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelConfigs
+  - m_GUID: e1c42d75bb5ea804cb5ff9b3465e31e4
+    m_Address: Assets/Code/Chapter 5 - Data/Configs/LevelConfigs/L3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelConfigs
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6d60a29831b262d419fb0aaa19105a3e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7f429d7a4732f2c40a6ad78926da4362, type: 2}
+    - {fileID: 11400000, guid: 0fc292638472f7e4e8de84c93e2a4b29, type: 2}
